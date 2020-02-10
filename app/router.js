@@ -10,4 +10,5 @@ Router.map(function() {
   this.route('root', { path: '/' });
   this.route('ecological-service'), { path: '/ecological-service' };
   this.route('ceo-profile'), { path: '/ceo-profile' };
+  this.route('projects');
 });
